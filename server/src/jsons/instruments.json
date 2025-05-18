@@ -1,0 +1,402 @@
+[
+  {
+    "name": "iPhone 14 Pro",
+    "image_url": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRH5URwL-PZtpzoPNjQUExM4AfA3YPVauyDUm7Avj2pNpqdM4A36lWKq2411bqFQ4_AcBUWqvpun-0ejgK-YMmaPSpcWiv7aTmLn_nAr9LHFKBVBSq7yyCmINm_nn2_-o7DAp4-rQ&usqp=CAc",
+    "description": "A smartphone with a 6.1-inch screen, an advanced camera, and an A16 Bionic processor.",
+    "price": 4599,
+    "category": "Smartphones",
+    "amount": 200
+  },
+  {
+    "name": "Samsung Galaxy S23 Ultra",
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6eG1R6v2aJM0MiPYcQQoVVZ6ulWmQuZXieQ&s",
+    "description": "A premium device with a 6.8-inch AMOLED screen and a 200MP camera.",
+    "price": 4999,
+    "category": "Smartphones",
+    "amount": 200
+  },
+  {
+    "name": "Google Pixel 7 Pro",
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQx9xKqC9s2hSl-KVe9vbIUC-4z6pVd4vf5SA&s",
+    "description": "A smartphone with a clean Android operating system and an advanced camera.",
+    "price": 3999,
+    "category": "Smartphones",
+    "amount": 200
+  },
+  {
+    "name": "Xiaomi 13 Pro",
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTF1BIJl5qLUXjRAHC4POp0Tgbx9HejbRMPQQ&s",
+    "description": "A powerful smartphone with a triple camera and 50MP resolution.",
+    "price": 3499,
+    "category": "Smartphones",
+    "amount": 200
+  },
+  {
+    "name": "OnePlus 11",
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-t6yUb8VrtSZdxcJu80baHPlDeUgaxI3R4g&s",
+    "description": "A fast device with OxygenOS operating system and fast charging support.",
+    "price": 3299,
+    "category": "Smartphones",
+    "amount": 200
+  },
+  {
+    "name": "Sony Xperia 5 V",
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIuI201ZObv3mIHq97wYbJsH9im5XOHxS6yQ&s",
+    "description": "A compact smartphone with a professional camera.",
+    "price": 2999,
+    "category": "Smartphones",
+    "amount": 200
+  },
+  {
+    "name": "Oppo Find X5 Pro",
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcgLc41hvkmHe9nA_U3SCeajAJrfP3V7PTIQ&s",
+    "description": "A flagship device with a Hasselblad camera.",
+    "price": 3699,
+    "category": "Smartphones",
+    "amount": 200
+  },
+  {
+    "name": "Vivo X80 Pro",
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTe1YQL9q6Xo7d3ueK0wuAGx1aQCMlTnmuF2A&s",
+    "description": "Premium smartphone with Zeiss technology.",
+    "price": 3899,
+    "category": "Smartphones",
+    "amount": 200
+  },
+  {
+    "name": "Realme GT 3",
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgfnlj7r24rPiL6fugRll1EYx75jojPrDgpQ&s",
+    "description": "A smartphone with high performance and a quality camera.",
+    "price": 2599,
+    "category": "Smartphones",
+    "amount": 200
+  },
+  {
+    "name": "Asus ROG Phone 7",
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaGXPWAglTVGTYTDjjGOsq24n4alXO_f9ihg&s",
+    "description": "A gaming smartphone with an advanced design and support for professional gaming.",
+    "price": 4799,
+    "category": "Smartphones",
+    "amount": 200
+  },
+  {
+    "name": "MacBook Air M2",
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsiIqtquqOXtyQLsfQm62G7aadef55J5Mybw&s",
+    "description": "A light and thin laptop with an M2 chip and a 13.6-inch Retina display.",
+    "price": 6299,
+    "category": "laptops",
+    "amount": 200
+  },
+  {
+    "name": "Dell XPS 15",
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJcy3cbFRBB8jR12UmUZpbDmGhbeHPH9ZYOg&s",
+    "description": "Premium laptop with 15.6-inch InfinityEdge screen and 4K resolution.",
+    "price": 7999,
+    "category": "laptops",
+    "amount": 200
+  },
+  {
+    "name": "HP Spectre x360",
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT36N0nkBTGQMpDOUVB4YmkS6y_0eXEvkn2sg&s",
+    "description": "2-in-1 laptop with touch screen and smart pen support.",
+    "price": 6799,
+    "category": "laptops",
+    "amount": 200
+  },
+  {
+    "name": "Lenovo Yoga 9i",
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTo9qNqgXu6slN-qG9LSGjqa-0ws2Yl_ugn8A&s",
+    "description": "High performance adjustable laptop.",
+    "price": 5899,
+    "category": "laptops",
+    "amount": 200
+  },
+  {
+    "name": "Asus ZenBook Pro Duo",
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREXJyO5P3AM55FfGCEvmxeAMYd3qj5uIYDTA&s",
+    "description": "Dual screen laptop for efficient work.",
+    "price": 8499,
+    "category": "laptops",
+    "amount": 200
+  },
+  {
+    "name": "Microsoft Surface Laptop 5",
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWPmQIWlvFoBq-2i1wrmC0jfwQcmFNjdEPPQ&s",
+    "description": "A computer with an elegant design and support for the Windows 11 system.",
+    "price": 6199,
+    "category": "laptops",
+    "amount": 200
+  },
+  {
+    "name": "Razer Blade 15",
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmj6-FadpzaenaXv3yZIAQf7LIdyBP-15BuA&s",
+    "description": "A gaming computer with a slim design and a 240Hz display.",
+    "price": 4999,
+    "category": "laptops",
+    "amount": 200
+  },
+  {
+    "name": "Acer Swift 3",
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdR0vQyd9F7tK61o8Xpl4I9ZoovztjE0YbSQ&s",
+    "description": "Light and portable computer with long battery life.",
+    "price": 4199,
+    "category": "laptops",
+    "amount": 200
+  },
+  {
+    "name": "LG Gram 16",
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNydLAWCVfLHeS5gezxr2PV6h10L5clJLjRA&s",
+    "description": "A lightweight computer with a large screen and Wi-Fi 6 support.",
+    "price": 6999,
+    "category": "laptops",
+    "amount": 200
+  },
+  {
+    "name": "Apple MacBook Pro 14",
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlBbFlEdNtWK0Sf77eR2Xn7RcrrV_0gKZvlQ&s",
+    "description": "A powerful computer with an M2 Pro chip and a Liquid Retina XDR display.",
+    "price": 9999,
+    "category": "laptops",
+    "amount": 200
+  },
+  {
+    "name": "Sony WH-1000XM5",
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjetyjPvvn9gwfEIGUGs0HajBa41PyZqJtUA&s",
+    "description": "Earphones with advanced noise cancellation and quality sound.",
+    "price": 1499,
+    "category": "Headphones",
+    "amount": 200
+  },
+  {
+    "name": "Bose QuietComfort 45",
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfPMNP6TQ8icT70DiBRkUT1DhScklhXmU2bw&s",
+    "description": "Premium headphones with advanced noise filtering and long-lasting comfort.",
+    "price": 1299,
+    "category": "Headphones",
+    "amount": 200
+  },
+  {
+    "name": "Apple AirPods Pro 2",
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbAcWhi9GWkbbUoki0AzltuCYctSkWSwiNMQ&s",
+    "description": "Wireless headphones with active noise cancellation and excellent sound quality.",
+    "price": 999,
+    "category": "Headphones",
+    "amount": 200
+  },
+  {
+    "name": "Jabra Elite 7 Pro",
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXyvkt9ZuTY8xmo7urEYbbOKDwe7MqTPdwyA&s",
+    "description": "Compact headphones with excellent audio quality and call support.",
+    "price": 899,
+    "category": "Headphones",
+    "amount": 200
+  },
+  {
+    "name": "Samsung Galaxy Buds 2 Pro",
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStA9I-qPo3pCFq40m8ImlIaZEUc1lv-cRM8Q&s",
+    "description": "Wireless headphones with quality sound and comfortable design.",
+    "price": 799,
+    "category": "Headphones",
+    "amount": 200
+  },
+  {
+    "name": "Beats Studio Buds",
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNycQ3SwTfV_tWxVrtxAMhTruSVWcwt-fDaA&s",
+    "description": "Compact headphones with rich bass and quality sound.",
+    "price": 799,
+    "category": "Headphones",
+    "amount": 200
+  },
+  {
+    "name": "Sennheiser Momentum 4",
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwJO5RZTzgGJuWfIMKUGk_p7jUQr46dNH0rQ&s",
+    "description": "Powerful headphones with long battery life and noise filtering.",
+    "price": 1299,
+    "category": "Headphones",
+    "amount": 200
+  },
+  {
+    "name": "Logitech G Pro X",
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROUv2e15R9c5AJqwX1A6sxLcUN4qCuBXCc1Q&s",
+    "description": "Gaming headphones with a quality microphone and DTS support.",
+    "price": 699,
+    "category": "Headphones",
+    "amount": 200
+  },
+  {
+    "name": "HyperX Cloud Alpha",
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjaLpORP09zaoa79gTzqOIzS1NrfJvly5RBg&s",
+    "description": "Gaming headphones with surround sound and durable construction.",
+    "price": 599,
+    "category": "Headphones",
+    "amount": 200
+  },
+  {
+    "name": "Anker Soundcore Life Q35",
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMO8gQpO8XQdQMfZOy0er4GRBynAM0QVjMWQ&s",
+    "description": "Headphones with smart noise filtering and strong bass.",
+    "price": 499,
+    "category": "Headphones",
+    "amount": 200
+  },
+  {
+    "name": "LG OLED C2",
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQs7IDfQZ0jZRHJsuKCiL4IyFgIZFisjhQijA&s",
+    "description": "A smart TV with a 55-inch OLED screen and 4K resolution.",
+    "price": 7499,
+    "category": "Televisions",
+    "amount": 200
+  },
+  {
+    "name": "Samsung Neo QLED QN90A",
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdTQ6zD0iI_3Vh8OIfNYoTj6x1yERq1AyiZQ&s",
+    "description": "TV with Neo QLED technology and HDR support.",
+    "price": 6999,
+    "category": "Televisions",
+    "amount": 200
+  },
+  {
+    "name": "Sony Bravia XR A80K",
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqCkFGLFy81wjs8lOewNHZskObpdWavwOxag&s",
+    "description": "OLED TV with Smart Picture XR technology.",
+    "price": 8999,
+    "category": "Televisions",
+    "amount": 200
+  },
+  {
+    "name": "TCL 6-Series R646",
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS73y0ML1oA1PUPtQqvhpebmFIGIMXR0IcuKg&s",
+    "description": "Smart TV with Mini-LED technology and 4K resolution.",
+    "price": 5499,
+    "category": "Televisions",
+    "amount": 200
+  },
+  {
+    "name": "Hisense U8H",
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRj0_9NPUpUjZhdWfp4R9bx5nnp3E02UmJVmg&s",
+    "description": "Quality TV with advanced backlight and high resolution.",
+    "price": 3999,
+    "category": "Televisions",
+    "amount": 200
+  },
+  {
+    "name": "Vizio M-Series Quantum",
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUixNVqfcgyapBQNaUvDRehgZtUPOTuzOAQw&s",
+    "description": "TV with support for Dolby Vision and Quantum Display.",
+    "price": 3599,
+    "category": "Televisions",
+    "amount": 200
+  },
+  {
+    "name": "Philips OLED806",
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQX8In2dQZotCw8r53egaVGyQEG6u4TS-ZtxA&s",
+    "description": "TV with Ambilight technology and HDR10 support.",
+    "price": 6499,
+    "category": "Televisions",
+    "amount": 200
+  },
+  {
+    "name": "Sharp Aquos EQ",
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToK2w18YKEWEspV0yn8MfwyALp-I0rfv8wrg&s",
+    "description": "Smart LED TV with support for streaming services.",
+    "price": 3199,
+    "category": "Televisions",
+    "amount": 200
+  },
+  {
+    "name": "Panasonic JZ2000",
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDjIOdBXPVZPuxivbSl2QBqiAZ7A66rAbWwQ&s",
+    "description": "A TV with great sound performance and support for Dolby Atmos.",
+    "price": 9999,
+    "category": "Televisions",
+    "amount": 200
+  },
+  {
+    "name": "Samsung Frame TV",
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPyU0dJXrGeLyqkZXkMtezs2nng0ilwqawUw&s",
+    "description": "A luxury TV that looks like a piece of art on the wall.",
+    "price": 7999,
+    "category": "Televisions",
+    "amount": 200
+  },
+  {
+    "name": "Apple iPad Pro 12.9",
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS30QwOC5pmKh7SwmfSJ7hRUyf4gF00wpJ8jg&s",
+    "description": "A powerful tablet with a 12.9-inch Liquid Retina screen.",
+    "price": 5299,
+    "category": "tablets",
+    "amount": 200
+  },
+  {
+    "name": "Samsung Galaxy Tab S8",
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRumkjdZ4Z_XhUD0N8AgQubwD6i0dDlwe7oWg&s",
+    "description": "A premium tablet with an AMOLED screen and S Pen support.",
+    "price": 3999,
+    "category": "tablets",
+    "amount": 200
+  },
+  {
+    "name": "Lenovo Tab P11 Pro",
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfJuQ6J6f9BkRpA6XtWdfkMrMc9htme2Vr-w&s",
+    "description": "A quality tablet with an OLED screen and touch pen support.",
+    "price": 2899,
+    "category": "tablets",
+    "amount": 200
+  },
+  {
+    "name": "Microsoft Surface Pro 9",
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8p2Ip2GzPaKPx5wTx4PENgQP8D6hBWtxvWw&s",
+    "description": "A high-performance tablet with support for a detachable keyboard.",
+    "price": 5499,
+    "category": "tablets",
+    "amount": 200
+  },
+  {
+    "name": "Xiaomi Pad 6",
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJtXw2csnh1kcaO-QIIVxIlAJMUVFLERzD3w&s",
+    "description": "A lightweight tablet with a sharp screen and stylus support.",
+    "price": 2199,
+    "category": "tablets",
+    "amount": 200
+  },
+  {
+    "name": "Huawei MatePad Pro",
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoUobjaWQRW5xKXXe5K9TTVUfQfBIC00IdYw&s",
+    "description": "A tablet with a luxurious design and advanced multimedia features.",
+    "price": 3499,
+    "category": "tablets",
+    "amount": 200
+  },
+  {
+    "name": "Amazon Fire HD 10",
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQt0LXqf2r3XmMAvXJPRbv3dG1yYU-yDPPM3A&s",
+    "description": "A friendly tablet with access to Amazon services.",
+    "price": 899,
+    "category": "tablets",
+    "amount": 200
+  },
+  {
+    "name": "Asus ROG Flow Z13",
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2G0dA8ur8PcMDvtP_rntUycmX5jMqtbeIcg&s",
+    "description": "A powerful gaming tablet with connection to external graphics cards.",
+    "price": 7199,
+    "category": "tablets",
+    "amount": 200
+  },
+  {
+    "name": "Google Pixel Tablet",
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwrSbqqqy97ykDNssmVig5_CR4BK1f0ywQvw&s",
+    "description": "A fast tablet with a pure Android system.",
+    "price": 3099,
+    "category": "tablets",
+    "amount": 200
+  },
+  {
+    "name": "Realme Pad X",
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfn1NtEENkMRVQdFQp_oqVCL7gjgWhcrPQgg&s",
+    "description": "A comfortable tablet for everyday use with a 10.5-inch screen.",
+    "price": 1599,
+    "category": "tablets",
+    "amount": 200
+  }
+]
